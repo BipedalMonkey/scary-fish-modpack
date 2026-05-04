@@ -1,0 +1,49 @@
+filename = 'occultism-1.21.1-neoforge-1.214.0.jar'
+name = 'Occultism'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-neoforge-1.214.0'
+
+[download]
+hash = '942947d2a55cac8ed2a534835ba031b8f7d2c4d3830c32a161545d7c075b4b4bc92cf2fd8163ddbbd033dd8cf0fc2a177378ade5d80f7b09c6d1826bf80bfb92'
+hash-format = 'sha512'
+mode = 'url'
+url = "https://cdn.modrinth.com/data/sbJh4AZw/versions/CEkDp1xr/occultism-1.21.1-neoforge-1.214.0.jar"
+
+[update.modrinth]
+mod-id = 'sbJh4AZw'
+version = 'CEkDp1xr'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'PuyPazRT'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '692GClaE'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'sdaSaQEz'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fRiHVvU7'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'uOVMgoil'
+type = 'OPTIONAL'

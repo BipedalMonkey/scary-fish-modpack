@@ -1,0 +1,29 @@
+filename = 'exposure-cmos-neoforge-1.0.3.jar'
+name = 'Exposure: CMOS'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.3'
+
+[download]
+hash = '42c63e9d4645c60f429bdcf38ab6f291522dd255403b6ec6cdd29ec655b1a94f66bb369e515525ccaec6d33ec8fc374dd2f76d5a2c5454e6db00275dbc4c3960'
+hash-format = 'sha512'
+mode = 'url'
+url = "https://cdn.modrinth.com/data/JE9rxPsT/versions/Of8NqoDL/exposure-cmos-neoforge-1.0.3.jar"
+
+[update.modrinth]
+mod-id = 'JE9rxPsT'
+version = 'Of8NqoDL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hB899VmG'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'gu7yAYhd'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

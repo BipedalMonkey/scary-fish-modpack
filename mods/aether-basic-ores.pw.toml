@@ -1,0 +1,18 @@
+filename = 'aether_ores-1.0.0-neoforge-1.21.1.jar'
+name = 'Aether: Basic Ores'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'e8b4f553c3dc418c586436ff0ea2a317fc1d9f590f67b8cd2c049352b9feaf94eca47add5212256a6bca4d1d818b354b159843cb94573b269fdc2393815df2cf'
+hash-format = 'sha512'
+mode = 'url'
+url = "https://cdn.modrinth.com/data/XrpsNJah/versions/KhqgoxtV/aether_ores-1.0.0-neoforge-1.21.1.jar"
+
+[update.modrinth]
+mod-id = 'XrpsNJah'
+version = 'KhqgoxtV'

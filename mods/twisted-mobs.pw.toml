@@ -1,0 +1,13 @@
+name = "Twisted Mobs"
+filename = "Twisted Mobs 1.6.2 (MC 1.21.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TUsZUXeu/versions/aGg5Zuax/Twisted%20Mobs%201.6.2%20%28MC%201.21.1%29.jar"
+hash-format = "sha512"
+hash = "fa061c498f8c0b9d33f2b937c3ffdd8403d63901e4cfd44ea20f3059c82020a23ed80cc944e480a8cdfbc51d45897532a5f09b755a5ea99f3cf424713b96e1a0"
+
+[update]
+[update.modrinth]
+mod-id = "TUsZUXeu"
+version = "aGg5Zuax"

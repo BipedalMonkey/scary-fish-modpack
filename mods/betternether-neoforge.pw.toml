@@ -1,0 +1,29 @@
+filename = 'BetterNether-21.0.19.jar'
+name = 'BetterNether Neoforge'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.0.19'
+
+[download]
+hash = 'f0564043fd7da679f82daaa2c3baded09513b63e90513ad1e66efdbb22f56deab7fc5cc4cb62654e09c659b9be3f8b9b40617258f486c207479850b63328344e'
+hash-format = 'sha512'
+mode = 'url'
+url = "https://cdn.modrinth.com/data/fxX3RlL5/versions/zjCPvMgN/BetterNether-21.0.19.jar"
+
+[update.modrinth]
+mod-id = 'fxX3RlL5'
+version = 'zjCPvMgN'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'R8uGDQpB'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '7bdKEtKC'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'HZmhgdJk'
+type = 'REQUIRED'

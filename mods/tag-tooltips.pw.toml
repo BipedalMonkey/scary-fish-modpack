@@ -1,0 +1,18 @@
+filename = 'tagtooltips-neoforge-1.21.1-1.2.0.jar'
+name = 'Tag Tooltips'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0'
+
+[download]
+hash = '76d079843900825172d633776c82598cc19cc5dbc4f9e74ea497dc52c6fb530f10437b30b781f0a05982e25f59198e813634623664b211c6ba396e22d0bf552d'
+hash-format = 'sha512'
+mode = 'url'
+url = "https://cdn.modrinth.com/data/2MgfuPip/versions/6gXB1Kcv/tagtooltips-neoforge-1.21.1-1.2.0.jar"
+
+[update.modrinth]
+mod-id = '2MgfuPip'
+version = '6gXB1Kcv'

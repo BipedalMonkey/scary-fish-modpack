@@ -1,0 +1,13 @@
+name = "Spyglass Astronomy Sync"
+filename = "spyglass-astronomy-sync-1.0.0+1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/idODwPra/versions/tUJCayZ6/spyglass-astronomy-sync-1.0.0%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "cec60fb4edf8f29490001bc744be00a5112dd9a182c1a2171043a1663ddfcefcd0bd7093a8874b0d5463cbca5d0ff42d621fe16f016c33f6df24eb5f21bc8931"
+
+[update]
+[update.modrinth]
+mod-id = "idODwPra"
+version = "tUJCayZ6"

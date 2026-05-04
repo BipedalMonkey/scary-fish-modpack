@@ -1,0 +1,18 @@
+filename = 'immersive_furniture-neoforge-0.1.3+1.21.1.jar'
+name = 'Immersive Furniture'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.3+1.21.1'
+
+[download]
+hash = '5f6ec97c708aa48431aea034e9c0c9d18b2a551d2267baa9b7e099782981c73855f30f8a09e10bae203063da1a64d6e030d9830410ed3660b677833d84bc1a6e'
+hash-format = 'sha512'
+mode = 'url'
+url = "https://cdn.modrinth.com/data/SvN6UGeF/versions/XTNZ9gTS/immersive_furniture-neoforge-0.1.3%2B1.21.1.jar"
+
+[update.modrinth]
+mod-id = 'SvN6UGeF'
+version = 'XTNZ9gTS'

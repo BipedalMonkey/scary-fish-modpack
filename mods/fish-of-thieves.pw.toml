@@ -1,0 +1,33 @@
+filename = 'fish_of_thieves-mc1.21.1-v21.1.1.2-neoforge.jar'
+name = 'Fish of Thieves'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.1.1.2-neoforge'
+
+[download]
+hash = '8d22fa0bd310099b660e43c595e397e5be7e6a808bb7a63714b5f56708831dc83a954b680cc4cb882c66122179b4d68fe6242424dc54fc7f4cdcca148ef7a642'
+hash-format = 'sha512'
+mode = 'url'
+url = "https://cdn.modrinth.com/data/BzOTnuqM/versions/bN7LPTYI/fish_of_thieves-mc1.21.1-v21.1.1.2-neoforge.jar"
+
+[update.modrinth]
+mod-id = 'BzOTnuqM'
+version = 'bN7LPTYI'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Vl1uNAuy'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kkmrDlKT'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MIdaKqt7'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

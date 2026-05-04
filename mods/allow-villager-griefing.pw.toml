@@ -1,0 +1,13 @@
+name = "Allow Villager Griefing"
+filename = "allowvillagergriefing-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd6b8c844db007038d3b8c3c6410a6a36e2b1bd8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6265502
+project-id = 1213513

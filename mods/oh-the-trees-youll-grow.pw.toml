@@ -1,0 +1,18 @@
+filename = 'Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.0.jar'
+name = "Oh The Trees You'll Grow"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-5.3.0-NeoForge'
+
+[download]
+hash = 'a41e3b5b3c44382dcaf5ff0ba13cedf9f5cd82fe1a8e582fe0bd44400a1653b27f5d5ef9c2a81c93f032875f21cd6fcecd09457c665d8868571ab97fe9aee9f4'
+hash-format = 'sha512'
+mode = 'url'
+url = "https://cdn.modrinth.com/data/g8NOG5OR/versions/AZhRLtso/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.0.jar"
+
+[update.modrinth]
+mod-id = 'g8NOG5OR'
+version = 'AZhRLtso'

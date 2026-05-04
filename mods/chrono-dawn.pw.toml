@@ -1,0 +1,21 @@
+filename = 'chronodawn-0.7.0+1.21.1-neoforge.jar'
+name = 'Chrono Dawn'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.7.0'
+
+[download]
+hash = 'ff60877a9cb6989676a1dbd75f3b253aee67f2b2f7ae72e5a83d9d47928c3b86a45f1f3526834eb8e7ca4c62eea7e4f2521e14cef6c4de6c3b91911a89d4a07d'
+hash-format = 'sha512'
+mode = 'url'
+url = "https://cdn.modrinth.com/data/yEsoyNev/versions/lFmQ9fTh/chronodawn-0.7.0%2B1.21.1-neoforge.jar"
+
+[update.modrinth]
+mod-id = 'yEsoyNev'
+version = 'lFmQ9fTh'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

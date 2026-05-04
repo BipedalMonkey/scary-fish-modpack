@@ -1,0 +1,18 @@
+filename = 'fullbright-1.21.x-neoforge.jar'
+name = 'Fullbright'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.x_NeoForge'
+
+[download]
+hash = '9c1018bc3fb6d48543d92100c24e2a809265a68a9433eefb0af5fa9b720d3a17b52d425721ff4363b95696beee5a28a2a5e8fa2cd7cee63b7a9ad8cca7dbfaba'
+hash-format = 'sha512'
+mode = 'url'
+url = "https://cdn.modrinth.com/data/L5dyCzCT/versions/uOXEAP0H/fullbright-1.21.x-neoforge.jar"
+
+[update.modrinth]
+mod-id = 'L5dyCzCT'
+version = 'uOXEAP0H'
