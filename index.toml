@@ -821,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
-hash = "f03091ab27a7b8412ecf57a306a30c0f47c5e69188bfd39e8b942c37d53c2f08"
+hash = "ccdfe6be33f544327fa284e8e7ddb7fb1006c6730bc19894bec82aaa15427e03"
 metafile = true
 
 [[files]]
