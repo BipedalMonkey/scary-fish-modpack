@@ -521,11 +521,6 @@ hash = "a682bf1f5303ecef4e0c1afbe3656dcab5b4bcac58588628c273254a1a5cd5f2"
 metafile = true
 
 [[files]]
-file = "mods/fullbright-forge.pw.toml"
-hash = "319800c5f5e12fc7697b7d1a665d70cfebf656a283e946ab0af15b37e39d38c1"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "9c00705694eaf8292fd81d6d35994fd608c601c65feb5cc799b4d79fcc498142"
 metafile = true
