@@ -1,6 +1,6 @@
 filename = 'blueprint-1.21.1-8.0.8.jar'
 name = 'Blueprint'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

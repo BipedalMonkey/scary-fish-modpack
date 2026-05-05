@@ -1,6 +1,6 @@
 filename = 'infernalmobs-1.21.1.3NF.jar'
 name = "AtomicStryker's Infernal Mobs"
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
