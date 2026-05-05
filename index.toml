@@ -636,6 +636,16 @@ hash = "c3fb9e8c4d1f3f44e4507c9648ccacf25f5e6ad55a5ca1db28e2f851307975f1"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "60d0f719a2fc1045e865fc38c0c6d04a733d0ce2e84173be86e999399bcc162d"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "7af6a52808502ddbd544b5be78a923eaf72e03e31180d391128e1d1b74c625c4"
 metafile = true
@@ -786,6 +796,10 @@ hash = "1536d46accfab7a3eda8dc85079aae95db9192f663646f1997ed1d971b8f315c"
 metafile = true
 
 [[files]]
+file = "mods/quickcompass-1.0.0.jar"
+hash = "4a574e927d381afcf6e3f9e0ed42c7829a8d5facf26286e0876c51c74e242280"
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "5bb3e60382f5af4908f3127721d03744c322b1d19d2922269fa799328d3c6f9c"
 metafile = true
@@ -818,6 +832,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ff264e0cb6d79001bbf3d32df8156113173c810ba9d774b4d96cf57fb43e6710"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
