@@ -1,6 +1,6 @@
 name = "QuarkPonders"
 filename = "QuarkPonders-1.5.1_NeoForge-1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
