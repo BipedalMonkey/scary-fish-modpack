@@ -1,25 +1,13 @@
-filename = 'reliquified_artifacts-1.21.1-1.0.4.jar'
-name = 'Reliquified Artifacts'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'reliquified_artifacts-1.21.1-1.0.4.jar'
+name = "Reliquified Artifacts"
+filename = "reliquified_artifacts-1.21.1-1.0.5.jar"
+side = "both"
 
 [download]
-hash = '5c1717a11d105f33021d805eefd4184a450cfaf5'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ""
+hash-format = "sha1"
+hash = "7966c58773e7e4e91a619f2d91bcef46cef2b71d"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 7881396
+file-id = 8024251
 project-id = 1100379
-
-[[x-prismlauncher-dependencies]]
-addonId = '312353'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '445274'
-type = 'REQUIRED'

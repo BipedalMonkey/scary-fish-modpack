@@ -1,53 +1,13 @@
-filename = 'DailyBoss-1.21.1-1.8.jar'
-name = 'Daily Boss'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'DailyBoss-1.21.1-1.8.jar'
+name = "Daily Boss"
+filename = "DailyBoss-1.21.1-1.8.jar"
+side = "both"
 
 [download]
-hash = 'c2820b6222fb8f209d04347c2bfb2fa6dee3c564'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ""
+hash-format = "sha1"
+hash = "c2820b6222fb8f209d04347c2bfb2fa6dee3c564"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 7884064
 project-id = 1297381
-
-[[x-prismlauncher-dependencies]]
-addonId = '1382015'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1377880'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1377874'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1381056'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1372474'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1380716'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1377888'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1377890'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1339255'
-type = 'OPTIONAL'

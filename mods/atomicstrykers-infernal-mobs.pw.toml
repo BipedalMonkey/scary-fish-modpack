@@ -1,18 +1,13 @@
-filename = 'infernalmobs-1.21.1.3NF.jar'
 name = "AtomicStryker's Infernal Mobs"
-side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'InfernalMobs 1.21.1.3NF'
+filename = "infernalmobs-1.21.1.3NF.jar"
+side = "both"
 
 [download]
-hash = 'b5f0dae19f55e89980e4590a86f30fc2731bcf99'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ""
+hash-format = "sha1"
+hash = "b5f0dae19f55e89980e4590a86f30fc2731bcf99"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6130429
 project-id = 227875

@@ -1,18 +1,13 @@
-filename = 'starcatcher-2.3.4-NEOFORGE-1.21.1.jar'
-name = 'Starcatcher'
-side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.3.4-NEOFORGE-1.21.1'
+name = "Starcatcher"
+filename = "starcatcher-2.3.9-NEOFORGE-1.21.1.jar"
+side = "both"
 
 [download]
-hash = 'c0d16795f68944cac548ba2ef93d9832dcfc740538cd5295ee0bc7b4ef76bacef71b20f7a36b736dc4d6916dd50a478c95ee508bfad2557aa8155b4ce3af1866'
-hash-format = 'sha512'
-mode = 'url'
-url = "https://cdn.modrinth.com/data/h2jXvxNR/versions/Z563rMV6/starcatcher-2.3.4-NEOFORGE-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/h2jXvxNR/versions/qM7p6wJ3/starcatcher-2.3.9-NEOFORGE-1.21.1.jar"
+hash-format = "sha512"
+hash = "062ed4f830ac7c8c2250636ed0c582336bbf48e5e4d7b4f33d79b75e2aaebefd9e60b73c173adb8025280b8b071bde1a2eaa958d48e25fb9a5e6ac828e8a8911"
 
+[update]
 [update.modrinth]
-mod-id = 'h2jXvxNR'
-version = 'Z563rMV6'
+mod-id = "h2jXvxNR"
+version = "qM7p6wJ3"

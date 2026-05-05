@@ -1,21 +1,13 @@
-filename = 'QuarkPonders-1.5.1_NeoForge-1.21.1.jar'
-name = 'QuarkPonders'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Quark Ponders 1.5.1 NeoForge 1.21.1'
+name = "QuarkPonders"
+filename = "QuarkPonders-1.5.1_NeoForge-1.21.1.jar"
+side = "both"
 
 [download]
-hash = 'ce45905d3b1036265f6a4e7b1a40bb63043b8055'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ""
+hash-format = "sha1"
+hash = "ce45905d3b1036265f6a4e7b1a40bb63043b8055"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 7911659
 project-id = 1290960
-
-[[x-prismlauncher-dependencies]]
-addonId = '243121'
-type = 'REQUIRED'

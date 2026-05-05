@@ -1,33 +1,13 @@
-filename = 'sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar'
-name = 'Sophisticated Storage Create Integration'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar'
+name = "Sophisticated Storage Create Integration"
+filename = "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar"
+side = "both"
 
 [download]
-hash = 'b779e324bbd6b09dbbcbe42bd9b0b189ed775acd'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ""
+url = "https://cdn.modrinth.com/data/MJ0hdevs/versions/cxMKWFFD/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar"
+hash-format = "sha512"
+hash = "6f2d83f7408a1cd4c14f93f55d745afbf61e3770cab00e6c5acb637bddb85f21919a75dfa6651d261bbd46fd0375468092378c3d8550a32213f2ab4a90b50863"
 
-[update.curseforge]
-file-id = 7941924
-project-id = 1226755
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '238222'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '618298'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '619320'
-type = 'REQUIRED'
+[update]
+[update.modrinth]
+mod-id = "MJ0hdevs"
+version = "cxMKWFFD"
