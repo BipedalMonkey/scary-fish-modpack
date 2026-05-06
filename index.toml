@@ -636,6 +636,11 @@ hash = "c3fb9e8c4d1f3f44e4507c9648ccacf25f5e6ad55a5ca1db28e2f851307975f1"
 metafile = true
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
 metafile = true
@@ -1048,7 +1053,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
-
-[[files]]
-file = "replace.py"
-hash = "b630c69c76ca483c6451192db2444e6020f8ba1abda46f87e0a6a2267db46746"
