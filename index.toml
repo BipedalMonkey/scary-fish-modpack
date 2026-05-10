@@ -686,6 +686,11 @@ hash = "2be68401191714d845fe426faabd5ed76903f127b29d117d3a95d367072ff7d1"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "e0eb9856cfbcefd70a853efd4e5ab8deb6a3add9f97f927860ed19b8055f8b88"
+metafile = true
+
+[[files]]
 file = "mods/malum.pw.toml"
 hash = "f732cab0709f975588f6b56a697d70705dea4d41c4296e21a4c306fa2214501b"
 metafile = true
@@ -783,6 +788,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "3cd2ee8c77455146d039c15d77ecf2f20d473a0c1b1149b58f10e700a4c4c107"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
