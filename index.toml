@@ -6,6 +6,14 @@ hash = "0d3538e08ada2b9ffd586a1ddcc2d72876c4a6fea3c19ee524abf23ef2bdf413"
 metafile = true
 
 [[files]]
+file = "mods/Axiom-5.4.2-for-MC1.21.1.jar"
+hash = "ecb14b29e7eb4cdc5c1f299782d32a2c26202292a8a9b4060a9104526e6d7267"
+
+[[files]]
+file = "mods/ExtendedDrawers-3.0.4+mc.1.21.1.jar"
+hash = "860cb80ac9e5cddd2e4c4d9b4443852efd3e91aedfd96a367022f293c6d383b6"
+
+[[files]]
 file = "mods/aa4-atlas.pw.toml"
 hash = "aec8c7f2fda448e14375edbcbb6b7b5148ddd9a932f68086d008ea67a33d353a"
 metafile = true
@@ -249,6 +257,10 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "c20d90d33c4dbdc389a4847155ef733a8cd5ff73cf454950f1818b3e04d1b032"
 metafile = true
+
+[[files]]
+file = "mods/clutter-1.21.1-0.6.6.jar"
+hash = "e31614ebd88d170df3437b29017a4c11f2cb161ed5e41c46d768d4a266fb8ee9"
 
 [[files]]
 file = "mods/comforts.pw.toml"
@@ -724,6 +736,10 @@ metafile = true
 file = "mods/moonlight.pw.toml"
 hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
 metafile = true
+
+[[files]]
+file = "mods/moreslabsstairsandwalls-4.2.0.jar"
+hash = "c5543fc3e9a65fed6f8a91d9819cb57cd99b8ba1120e45c3738a46afa2df093d"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
