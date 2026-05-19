@@ -219,6 +219,11 @@ hash = "c655717f347b7ab95af0b31b3a396139939bfeef1139494cdadfa0e0aab5abee"
 metafile = true
 
 [[files]]
+file = "mods/carryon-aeronautics-compat.pw.toml"
+hash = "575ebf4c7a4d60e8db84e1dbbfed2c9bc73cd50abd61e5f37d92ac9a97cfd900"
+metafile = true
+
+[[files]]
 file = "mods/cc-graphics.pw.toml"
 hash = "e651a1016d15510992f8d4f32ac087c7ee4a39957bfca284fe7f113d379ff082"
 metafile = true
@@ -226,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "89a4a34f64c1ab60a312cd0469128caec515508839693e94b84a5e70dda5fc1a"
+metafile = true
+
+[[files]]
+file = "mods/cgs.pw.toml"
+hash = "49c3b490fb1c69cd2625feed2a3a6a8cb6759657ca29f58ececa7169e5673a29"
 metafile = true
 
 [[files]]
@@ -319,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "f7a9c9c08988763e2f86daed1a8b361bdb2ca52fead40563e2b10ce8eb9f0cbc"
+hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
 metafile = true
 
 [[files]]
@@ -364,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -754,6 +764,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "8ba641d9383fb47c637800ff07be380a290ff12e6bc1947679cc87fc17b6166f"
+metafile = true
+
+[[files]]
+file = "mods/ntgl.pw.toml"
+hash = "f2d8ed39cf2333191a7195ce9e988db6927b452ffc9911cd30678f209065e31f"
 metafile = true
 
 [[files]]
