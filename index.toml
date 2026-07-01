@@ -194,6 +194,11 @@ hash = "503f5edc15608c1bcf7bb61709795b581b39e3ad413084abee7ff93345b07eb4"
 metafile = true
 
 [[files]]
+file = "mods/biome-blends.pw.toml"
+hash = "85eb00f40b865aaff5402ce0eec8dc102c55b81f049df83a56d8487e4242adc1"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
