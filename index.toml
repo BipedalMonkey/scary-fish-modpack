@@ -802,6 +802,11 @@ hash = "7c56e483ac106778984bc18550faf0ea086c11a7631bbb3902acdc85b330f8c4"
 metafile = true
 
 [[files]]
+file = "mods/oritech-things.pw.toml"
+hash = "0b09ba2d53b4f21e31f1da74a836cce63e335f567bc4d45cf8374bc9ee560e23"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 hash = "68727fe01256af246ebfe2953c37d2117764961c1a288743c0d69fb4621db4d4"
 metafile = true
@@ -1038,6 +1043,11 @@ metafile = true
 [[files]]
 file = "mods/toms-trading-network.pw.toml"
 hash = "78a0298df193abce5b533b3e993ee085469809a4294835fc04bd5bbe1efbd1e9"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "1d5fcdacb9a64b8331dd6cf084e67ded94664ecc3fa8a57a4dfc84decbae6a5e"
 metafile = true
 
 [[files]]
